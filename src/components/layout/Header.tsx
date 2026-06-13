@@ -44,7 +44,7 @@ export default function Header() {
               letterSpacing: '0.1em',
             }}
           >
-            {'<APM/>'}
+            {'G'}
           </span>
           <span
             style={{
